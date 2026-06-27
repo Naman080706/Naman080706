@@ -35,7 +35,7 @@ I'm a Computer Science undergrad who likes building things — web apps, AI-powe
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naman080706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naman080706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
 </p>
 
 <p align="left">
