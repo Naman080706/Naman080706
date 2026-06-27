@@ -55,5 +55,5 @@ I'm a Computer Science undergrad who likes building things — web apps, AI-powe
 ## 🔗 Connect with Me
 
 - **GitHub:** [@Naman080706](https://github.com/Naman080706)
-- **LinkedIn:** [Naman Jain](www.linkedin.com/in/namanjain777)
+- **LinkedIn:** [Naman Jain]https://www.linkedin.com/in/namanjain777/)
 - **Email:** namanj8762@gmail.com
