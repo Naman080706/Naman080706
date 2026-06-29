@@ -1,11 +1,18 @@
-# 👋 Hi, I'm Naman
+<!-- Animated banner header (centered automatically — full width) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi,%20I'm%20Naman&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=35)
 
+<!-- Typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+Undergrad;AI+%26+Web+Developer;Exploring+Agentic+AI" alt="Typing SVG" />
+</div>
+
+<p align="center">
 I'm a Computer Science undergrad who likes building things — web apps, AI-powered tools, and automation. Currently going deep on agentic AI and always looking for the next problem worth solving.
+</p>
+
 ---
 
 ## 🌟 Featured Project
-
-
 
 ---
 
@@ -51,6 +58,7 @@ I'm a Computer Science undergrad who likes building things — web apps, AI-powe
 - Multi-agent systems and agent orchestration
 - Tool-calling and function-calling with LLMs
 - The ReAct pattern (reasoning + acting) and agent memory
+
 ---
 
 ## 🔗 Connect with Me
